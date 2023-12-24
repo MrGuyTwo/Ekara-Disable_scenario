@@ -5,7 +5,7 @@
 <a href="https://api.ekara.ip-label.net/"><img src="screenshot/cropped-ekara_by_ip-label_full_2.webp"> 
 
 ## Description
-This [Powershell](https://learn.microsoft.com/powershell/scripting/overview) script allows you to deactivate several Ekara scenarios.
+This [Powershell](https://learn.microsoft.com/powershell/scripting/overview) script allows you to deactivate several [Ekara](https://ekara.ip-label.net/) scenarios.
 
 For this, the script uses the Rest Ekara API.
 
